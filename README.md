@@ -1,2 +1,2 @@
 # program
-welcme to my programing. See codes for programming in that
+welcome to my programming. See codes for programming in this
